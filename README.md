@@ -50,8 +50,11 @@ python3 client.py
 
 ### 开发笔记
 1.[基础场景控制篇](https://blog.csdn.net/weixin_43412878/article/details/110622207?spm=1001.2014.3001.5502)
+
 2.[玩法开发——躲避游戏](https://blog.csdn.net/weixin_43412878/article/details/124714806?spm=1001.2014.3001.5502)
+
 3.[BOSS与AI攻击](https://blog.csdn.net/weixin_43412878/article/details/124890497?spm=1001.2014.3001.5502)
+
 4.[联机功能篇](https://blog.csdn.net/weixin_43412878/article/details/124916404?spm=1001.2014.3001.5502)
 
 ### 该功能只用于开发学习，不做商业用途~
